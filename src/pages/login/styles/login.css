@@ -1,0 +1,33 @@
+.size-login {
+  width: 25%;
+}
+
+@media screen and (max-width: 1700px) {
+  .size-login {
+    width: 30%;
+  }
+}
+
+@media screen and (max-width: 1240px) {
+  .size-login {
+    width: 35%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .size-login {
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .size-login {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .size-login {
+    width: 80%;
+  }
+}
